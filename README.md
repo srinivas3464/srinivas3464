@@ -1,126 +1,33 @@
-<h1 align="center">Hi 👋, I'm Likhitha Sree</h1>
-<h3 align="center">
-  "Diploma student specializing in Computer Engineering, passionate about coding and innovation."
-</h3>
+<h1 align="center">Hi 👋, I'm Srinivas.Yenumula</h1>
+<h3 align="center">DOT NET Developer</h3>
 
-<p>
-  <img src="https://github.com/user-attachments/assets/3e6cd5f0-7528-4465-84f7-07cc8e590541" alt="banner">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivas3464&label=Profile%20views&color=0e75b6&style=flat" alt="srinivas3464" /> </p>
 
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivas3464" alt="srinivas3464" /></a> </p>
 
+- 🔭 I’m currently working on **NPDD**
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=likhithasreeyenumula&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+- 🌱 I’m currently learning **A.I**
 
-<!-- Twitter Badge -->
-<p align="center">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
-  </a>
-</p>
+- 💬 Ask me about **angulor,type script,html,css,.net,mssql sever,windows application,VB 6.0,MVC,classic ASP**
 
-<!-- About Me Section -->
-<p align="center">
-  🔭 I’m currently working on <strong>developing</strong><br>
-  🌱 I’m currently learning <strong>.NET</strong><br>
-  👨‍💻 All of my projects are available at <a href="https://github.com/likhithasreeyenumula">GitHub</a><br>
-  💬 Ask me about <strong>HTML, CSS</strong><br>
-  📫 How to reach me: <strong>likhithasree1109@gmail.com</strong>
-</p>
+- 📫 How to reach me **srinu3464@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<!-- Connect with Me Section -->
-<h3 align="center">Connect with me:</h3>
-<div align="center" >
-<a href="likhithasree1109@email.com" target="_blank">
-  <img align="center" src="https://github.com/user-attachments/assets/390d6cbc-3ca0-4e3d-8ef4-660f3c409d44" alt="Email" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/likhitha-sree-228bb9341/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/likhitha-sree-228bb9341/" height="30" width="40" />
-</a>
-<a href="https://medium.com/https://medium.com/@likhithasree1109" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@likhithasree1109" height="30" width="40" />
-</a>
-
-</div>
-
-
-
-<!-- Languages and Tools Section -->
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" />
-  </a>
-</p>
-
-<h3 align="center">My GitHub Stats:</h3>
-
-
-
-
-
-
-<!-- Top Languages -->
-<img align="right" alt="code" width="350" src="https://github.com/user-attachments/assets/2ab4e509-6aa2-4cbf-8659-7e8d2bcfaeb1">
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=likhithasreeyenumula&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<a href="https://linkedin.com/in/srinivas-y-5a747a58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinivas-y-5a747a58" height="30" width="40" /></a>
+<a href="https://medium.com/@srinivas3464" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srinivas3464" height="30" width="40" /></a>
 </p>
 
-<!-- GitHub Stats -->
-<p align="left" style="margin-top: 10px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&locale=en" alt="likhithasreeyenumula" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<!-- GitHub Streak -->
-<p align="left" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&" alt="GitHub Streak" />
-  
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivas3464&show_icons=true&locale=en&layout=compact" alt="srinivas3464" /></p>
 
-<!-- Roadmap -->
-<h3 align="center">My Roadmap:</h3>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/675cfb6aecc889bb0d886284?variant=dark" alt="roadmap.sh"/></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinivas3464&show_icons=true&locale=en" alt="srinivas3464" /></p>
 
-<!-- Daily Dev Card -->
-<h3 align="center">My Daily Dev Card:</h3>
-<a href="https://app.daily.dev/likhithasree">
-  <img src="https://api.daily.dev/devcards/v2/4Gc1kXveYxWbGvm7CGMcP.png?type=wide&r=y1p" width="652" alt="Likhitha Sree's Dev Card" />
-</a><br><br>
-
-<!-- GitHub Profile Trophy -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=likhithasreeyenumula" alt="GitHub Trophies" />
-  </a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivas3464&" alt="srinivas3464" /></p>
